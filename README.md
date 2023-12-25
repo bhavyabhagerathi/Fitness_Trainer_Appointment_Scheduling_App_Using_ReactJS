@@ -1,4 +1,4 @@
-# Fitness_Trainer_App_Using_ReactJS
+# Fitness_Trainer_Appointment_Scheduling_App_Using_ReactJS
 
 ## Introduction
 
